@@ -1,2 +1,2 @@
-# sql_project (data webscrapped by using online tools)
+# sql_project (hotels data webscrapped by using online tools)
 hotels
